@@ -1,6 +1,6 @@
 # Simple RAG
 
-![RAG Architecture Diagram](https://huggingface.co/ngxson/demo_simple_rag_py/resolve/main/diagram_2_mermaid-423723682-light-mermaid.svg)
+
 
 A clean, production-ready RAG (Retrieval-Augmented Generation) implementation that's simple to use and easy to understand.
 
