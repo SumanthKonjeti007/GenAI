@@ -290,9 +290,9 @@ temp/
 .ollama/
 ollama_models/
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb
+# # Jupyter
+# .ipynb_checkpoints/
+# *.ipynb
 
 # PyTorch
 *.pth
