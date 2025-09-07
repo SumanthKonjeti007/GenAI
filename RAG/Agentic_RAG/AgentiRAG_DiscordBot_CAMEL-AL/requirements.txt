@@ -1,0 +1,19 @@
+# requirements.txt
+camel-ai[all]==0.2.75
+langchain>=0.3,<0.4
+langgraph>=0.2,<0.3
+qdrant-client>=1.15,<2
+python-dotenv>=1.0
+tiktoken>=0.7
+
+# LLM providers (pick what you use)
+openai>=1.50,<2
+langchain-openai>=0.1
+langchain-ollama>=0.1
+
+# Optional UI/bot
+streamlit>=1.35
+discord.py>=2.3
+
+# Keep modern httpx for the AI libs above
+httpx>=0.28.1,<0.29
